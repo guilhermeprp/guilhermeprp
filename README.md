@@ -4,7 +4,7 @@ Ready to begin!
 
 ## I'm a Developer, Gamer and Weightlifter!
 
-- 🔭 I’m currently working at EBC!
+- 🔭 I’m currently working at STF!
 - 🌱 I’m currently learning more about React Native and Swift
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to mobile community 
