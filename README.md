@@ -8,7 +8,7 @@ Ready to begin!
 - 🌱 I’m currently learning more about Node Js.
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Learn more about Back End and Cyber security. 
-- ⚡ Fun fact: I love to play some games, read about new frameworks, cook, hit to cinema.
+- ⚡ Fun fact: I love to play some games, learn about new technologies, cook, hit to cinema.
 
 ### Connect with me:
 
