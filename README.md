@@ -5,9 +5,9 @@ Ready to begin!
 ## I'm a Developer, Gamer and Weightlifter!
 
 - 🔭 I’m currently working at STF!
-- 🌱 I’m currently learning more about React Native and Vue Js
+- 🌱 I’m currently learning more about Node Js.
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to mobile community 
+- 🥅 2021 Goals: Learn more about Back End and Cyber security. 
 - ⚡ Fun fact: I love to play some games, read about new frameworks, cook, hit to cinema.
 
 ### Connect with me:
