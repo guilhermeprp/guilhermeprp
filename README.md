@@ -1,6 +1,10 @@
-### Hi there, I'm Guilherme 👋
+## Hi there, I'm Guilherme 👋
 
-Ready to begin!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeprp)](https://github.com/guilhermeprp)
+
+
+![Snake animation](https://github.com/guilhermeprp/guilhermeprp/blob/output/github-contribution-grid-snake.svg)
 
 ## I'm a Developer, Gamer and Weightlifter!
 
@@ -41,16 +45,4 @@ Ready to begin!
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
 
----
-
-<summary>:zap: Github Stats</summary>
-
-<br />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeprp)](https://github.com/guilhermeprp)
-
-
-![Snake animation](https://github.com/guilhermeprp/guilhermeprp/blob/output/github-contribution-grid-snake.svg)
