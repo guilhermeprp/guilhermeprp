@@ -51,3 +51,6 @@ Ready to begin!
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeprp)](https://github.com/guilhermeprp)
+
+
+![Snake animation](https://github.com/guilhermeprp/guilhermeprp/blob/output/github-contribution-grid-snake.svg)
