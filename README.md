@@ -50,4 +50,4 @@ Ready to begin!
 
 <br />
 
-<img align="left" alt="guilhermeprp Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=guilhermeprp&show_icons=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeprp)](https://github.com/guilhermeprp)
