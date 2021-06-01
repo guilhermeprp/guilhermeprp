@@ -1,10 +1,17 @@
 ## Hi there, I'm Guilherme 👋
 
+<div>
+  <a href="https://github.com/guilhermeprp">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=guilhermeprp&show_icons=true&theme=dark"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeprp&layout=compact&show_icons=true&theme=dark"/>
+  </a>
+  
+  ![Snake animation](https://github.com/guilhermeprp/guilhermeprp/blob/output/github-contribution-grid-snake.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeprp)](https://github.com/guilhermeprp)
+</div>
 
 
-![Snake animation](https://github.com/guilhermeprp/guilhermeprp/blob/output/github-contribution-grid-snake.svg)
+
 
 ## I'm a Developer, Gamer and Weightlifter!
 
