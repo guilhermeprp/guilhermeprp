@@ -15,11 +15,11 @@
 
 ## I'm a Developer, Gamer and Weightlifter!
 
-- 🔭 I’m currently working at STF!
-- 🌱 I’m currently learning more about Node Js.
+- 🔭 I’m currently working at Implanta!
+- 🌱 I’m currently learning more about UI/UX Design.
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Learn more about Back End and Cyber security. 
-- ⚡ Fun fact: I love to play some games, learn about new technologies, cook, hit to cinema.
+- ⚡ Fun fact: I love to play some games, learn about new technologies, cook and hit to cinema.
 
 ### Connect with me:
 
