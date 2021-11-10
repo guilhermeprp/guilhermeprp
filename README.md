@@ -22,19 +22,19 @@
 
 
 <a href="https://linkedin.com/in/guilherme-pimenta-980b65169" target="_blank">
-  <img align="left" alt="guilhermeprp | LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="guilhermeprp | LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5561993630160&text=Olá%20Guilherme.%20" target="_blank">
-  <img align="left" alt="guilhermeprp | Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img align="left" alt="guilhermeprp | Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
 </a>
 
 <a href="mailto:guipimenta.224@gmail.com" target="_blank">
-  <img align="left" alt="guilhermeprp | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="guilhermeprp | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
 </a>
 
 <a href="https://www.behance.net/guilherrodrigu57" target="_blank">
-  <img align="left" alt="guilhermeprp | Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
+  <img align="left" alt="guilhermeprp | Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"/>
 </a>
 
 <br />
