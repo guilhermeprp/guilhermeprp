@@ -15,7 +15,7 @@
 - 🔭 I’m currently working at Mirante!
 - 🌱 I’m currently learning more about UI/UX Design.
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about Back End and Cyber security. 
+- 🥅 2024 Goals: Learn more about Back End and Cyber security. 
 - ⚡ Fun fact: I love to play some games, learn about new technologies, cook and hit to cinema.
 
 ### Connect with me:
